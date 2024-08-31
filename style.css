@@ -1,0 +1,230 @@
+body {
+    font-family: comic sans ms;
+    background-color: rgb(255, 255, 255);
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   height: 200px;
+   
+    margin-bottom: 20px;
+    
+    
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid rgb(0, 0, 0);
+    border-bottom: 5px solid rgb(0, 0, 0);
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: rgb(66, 41, 9);
+    text-decoration: none;
+    font-family: Arial rgb(145, 73, 73);
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: 20px;
+    font-family: comic sans ms;
+    
+}
+ 
+ 
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 20px auto;
+    display:flex;
+}
+
+article {
+    background-color: rgba(8, 44, 65, 0.486);
+    padding: 20px;
+    width: 400px;
+    margin: 15px;
+}
+
+.article-but1 {
+    text-decoration: none;
+    background-color: rgb(196, 60, 19);
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    font-family: comic sans ms;
+}
+.article-but1:hover{
+    transition: 0.3s;
+     box-shadow: 15px 10px 30px rgba(173, 119, 47, 0.932);
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    padding:3px ;
+    display: flex;
+    height: 200px;
+    border: 5px black;
+    border-radius: 15px;
+    
+}
+
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+    color: rgb(18, 129, 129);
+    font-family: comic sans ms;
+    border-top: 5px black;
+}
+
+main {
+  display: flex;  
+}
+body {
+  background-image: url(https://kartinki.pics/pics/uploads/posts/2022-08/1660885050_8-kartinkin-net-p-fon-lapki-kota-krasivo-9.jpg);
+}
+
+.article-but2{
+ text-decoration: none;
+    background-color: rgb(0, 255, 21);
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+        font-family: comic sans ms;
+}
+.article-but2:hover{
+    transition: 0.3s;
+    box-shadow: 15px 10px 30px green;
+}
+
+.article-but3 {
+    text-decoration: none;
+    background-color: rgba(223, 18, 18, 0.925);
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+       font-family: comic sans ms;
+}
+.article-but3:hover{
+    transition: 0.3s;
+    box-shadow: 15px 10px 30px rgb(90, 18, 6);
+}
+
+.article-but4 {
+    text-decoration: none;
+    background-color: rgba(255, 0, 221, 0.925);
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+       font-family: comic sans ms;
+}
+.article-but4:hover{
+    transition: 0.3s;
+    box-shadow: 15px 10px 30px rgb(141, 8, 112);
+}
+
+.button {
+    font-size: 35px;
+    font-family: comic sans ms;
+}
+.leptop {
+    font-family: comic sans ms;
+    color: rgb(201, 187, 187);
+}
+.navush {
+    font-family: comic sans ms;
+    color: rgb(201, 187, 187);
+}
+    
+
+.mobila {
+    font-family: comic sans ms;
+    color: rgb(201, 187, 187);
+}
+
+.tech {
+    font-family: comic sans ms;
+    color: rgb(201, 187, 187);
+}
+
+
+.title {
+    width: 100%;
+}
+
+header h2 {
+    font-family: comic sans ms;
+    color: rgb(39, 13, 13);
+    font-size: 52px;
+    text-align: center;
+    border-radius: 15px;
+}
+header h2:hover{
+  background-color:rgb(233, 229, 221);
+  box-shadow:10px 10px 15px rgb(66, 61, 61); 
+  transition: 0.6s;
+  padding: 10px;
+}
+.nav-link {
+  color: rgb(0, 0, 0);
+  font-family: comic sans ms;
+  border: 10px;
+  border-radius: 10px;
+}
+
+.nav-link:hover{
+    box-shadow: 10px 10px 15px rgb(66, 61, 61);
+    background-color: rgb(209, 195, 179);
+    padding: 5px;
+    transition: 0.6s;
+}
+
+
+
+b{
+    border-radius: 15px;
+    background-color: black;
+}
+
+.lapki{
+    width: 300px;
+    height: 150px;
+    padding-top: 53px;
+    padding-left: 600px;
+}
+
+
+
+
+
+
